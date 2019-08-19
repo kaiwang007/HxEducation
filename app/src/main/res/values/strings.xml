@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">HxEducation</string>
+    <string name="note_username">账号</string>
+    <string name="note_psw">密码</string>
+    <string name="scan_tips">将答题卡对准扫描框即可自动扫描</string>
+    <string name="str_username">请输入您的账号</string>
+    <string name="str_password">请输入您的密码</string>
+    <string name="str_class_manager">班级管理</string>
+    <string name="str_class_add">添加班级</string>
+    <string name="str_site">网址: http://www.chinahope.net.cn/</string>
+    <string name="str_advice">问题反馈</string>
+    <string name="str_tip_username">请输入账号</string>
+    <string name="str_hint_psw">请输入密码</string>
+    <string name="please_input_limit_pwd">请输入数字或字母</string>
+    <string name="str_btn_username">登 录</string>
+    <string name="str_tv_reg">注册</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">学习中心</string>
+    <string name="title_nav1">主页</string>
+    <string name="title_nav2">扫描</string>
+    <string name="title_nav3">课程</string>
+    <string name="title_nav4">我的</string>
+</resources>
